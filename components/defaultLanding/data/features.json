@@ -1,46 +1,50 @@
 [
   {
-    "name": "Create account",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Express Yourself with Custom Colors",
+    "description": "Choose your own text color to make every lyric and note feel uniquely yours. Stand out with a personal touch across your recordings."
   },
   {
-    "name": "Sign in with Email and Password",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Switch Between Light and Dark Mode",
+    "description": "Enjoy the flexibility of light or dark mode with a single tap. Create in the mode that feels just right, day or night."
   },
   {
-    "name": "Sign in with Magic link",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Smooth Start with a Splash",
+    "description": "Experience a welcoming splash screen that sets the stage for creativity, complete with a progress indicator for a seamless entry."
   },
   {
-    "name": "Sign in with SAML SSO",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Guided Onboarding Walkthrough",
+    "description": "Start off right with a 4-step guided tour that smoothly introduces you to Lyric Drop’s core features, powered by Framer Motion animations."
   },
   {
-    "name": "Directory Sync (SCIM)",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Record Anywhere, Anytime",
+    "description": "Lyric Drop is designed for every screen size. Whether you’re on a phone or tablet, capture your music wherever inspiration strikes."
   },
   {
-    "name": "Update account",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "State Management for an Effortless Experience",
+    "description": "Enjoy a smooth, intuitive experience with refined state management that keeps all your preferences and settings right at your fingertips."
   },
   {
-    "name": "Invite users to the team",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Enhanced Styling for Your Theme",
+    "description": "Lyric Drop’s updated styling effortlessly adapts to your chosen theme and colors, creating a consistent, sleek interface no matter your preference."
   },
   {
-    "name": "Manage team members",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Accessibility-First Design",
+    "description": "Your app, accessible to all. Lyric Drop includes enhanced ARIA labels and interactive elements for an inclusive experience."
   },
   {
-    "name": "Update team settings",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Customize Your Creative Space",
+    "description": "Take control of your recording environment with flexible theme, color, and style options. Lyric Drop gives you the tools to create without limits."
   },
   {
-    "name": "Webhooks & Events",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Seamless Recording with Zero Interruptions",
+    "description": "Record your music smoothly with an app that’s designed to minimize distractions and keep you in the flow. Lyric Drop is all about uninterrupted creativity."
   },
   {
-    "name": "Create team",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Fast and Flexible Theme Switching",
+    "description": "With just a tap, switch between light and dark modes without missing a beat. Customize your workspace instantly to match your vibe."
+  },
+  {
+    "name": "Personalize Your Journey",
+    "description": "From onboarding to recording, Lyric Drop tailors your experience to fit your style, giving you complete control over every detail along the way."
   }
 ]

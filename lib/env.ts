@@ -1,7 +1,7 @@
 import type { SessionStrategy } from 'next-auth';
 
 const env = {
-  databaseUrl: `${process.env.DATABASE_URL}`,
+  databaseUrl: `${process.env.POSTGRES_URL}`,
   appUrl: `${process.env.APP_URL}`,
   redirectIfAuthenticated: '/dashboard',
 

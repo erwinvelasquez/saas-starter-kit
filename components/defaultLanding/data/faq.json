@@ -1,14 +1,14 @@
 [
   {
-    "question": "What is BoxyHQ?",
-    "answer": "Enterprise readiness for B2B SaaS, straight out of the box."
+    "question": "Can I switch between light and dark mode anytime?",
+    "answer": "Absolutely! Lyric Drop lets you switch between light and dark modes with a simple toggle, so you can always create in the environment that feels best."
   },
   {
-    "question": "What BoxyHQ offers?",
-    "answer": "At BoxyHQ we enable you to add plug-and-play enterprise-ready features to your SaaS product. Show enterprise customers and InfoSec teams you are ready to pass their processes with flying colors. We are open-source and free!"
+    "question": "How does the onboarding walkthrough work?",
+    "answer": "The onboarding walkthrough is a quick, 4-step guide that uses smooth animations to introduce you to Lyric Drop’s core features. It’s designed to get you familiar with the app in no time, so you can start recording right away."
   },
   {
-    "question": "Is BoxyHQ offers developer security tools?",
-    "answer": "We have curated a list of awesome open-source developer security tools.It includes security principles and controls relevant to popular compliance certifications (like ISO27001, SOC2, MVSP, etc.)"
+    "question": "Can I customize the text color for my recordings?",
+    "answer": "Yes, you can! Lyric Drop includes a color picker for text customization, allowing you to make every lyric and note feel unique and personal."
   }
 ]

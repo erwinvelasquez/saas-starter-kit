@@ -16,6 +16,6 @@ spec:
         - key: SMTP_USER
         - key: SMTP_PASSWORD
         - key: SMTP_FROM
-        - key: DATABASE_URL
+        - key: POSTGRES_URL
         - key: SVIX_URL
         - key: SVIX_API_KEY

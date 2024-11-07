@@ -26,7 +26,7 @@
     "SMTP_FROM": {
       "description": "SMTP server sender's email address."
     },
-    "DATABASE_URL": {
+    "POSTGRES_URL": {
       "description": "Hosted Database URL."
     },
     "APP_URL": {

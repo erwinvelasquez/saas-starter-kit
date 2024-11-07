@@ -23,7 +23,7 @@ const jacksonOpts = {
   db: {
     engine: 'sql',
     type: 'postgres',
-    url: `${process.env.DATABASE_URL}`,
+    url: `${process.env.POSTGRES_URL}`,
   },
   idpDiscoveryPath: '/auth/sso/idp-select',
   idpEnabled: true,

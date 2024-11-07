@@ -11,8 +11,7 @@ const FeatureSection = () => {
           {t('features')}
         </h2>
         <p className="text-center text-xl">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry.
+        Lyric Drop empowers you to capture, customize, and share your music like never before. With intuitive features, endless personalization options, and a smooth, seamless experience, it's time to take your recordings to the next level.
         </p>
         <div className="flex items-center justify-center">
           <div className="grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 gap-2">
