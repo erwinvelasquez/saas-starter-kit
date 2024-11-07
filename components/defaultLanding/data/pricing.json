@@ -1,32 +1,45 @@
 [
   {
-    "amount": "30k",
+    "amount": "$9.99",
     "currency": "USD",
-    "duration": "month",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "duration": "Monthly",
+    "description": "Perfect for casual creators looking to capture moments of inspiration.",
     "benefits": [
-      "Up to 20 users.",
-      "Free storage upto 1GB",
-      "Lifetime validity"
+      "Unlimited recordings per month",
+      "Access to light and dark mode",
+      "Basic onboarding walkthrough",
+      "Standard text color customization options",
+      "Start your creative journey with the essentials. Perfect for capturing those sudden bursts of inspiration!"
+
     ]
   },
   {
-    "amount": "120k",
+    "amount": "$19.99",
     "currency": "USD",
-    "duration": "month",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "benefits": ["Up to 500 users.", "Storage upto 50GB", "24*7 support"]
+    "duration": "Monthly",
+    "description": "Ideal for regular creators who want more flexibility and customization.",
+    "benefits": [
+      "All Basic Plan features, plus:", 
+      "Extended text color customization", 
+      "Enhanced onboarding walkthrough with extra tips",
+      "Priority customer support",
+      "Access to exclusive content, including sample sound packs",
+      "Step up your creativity and unlock more tools to make each recording truly unique!"
+    ]
   },
   {
-    "amount": "350k",
+    "amount": "$199.99",
     "currency": "USD",
-    "duration": "month",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "duration": "Annual",
+    "description": "For dedicated creators ready to take full advantage of Lyric Drop’s capabilities.",
     "benefits": [
-      "Up to 1000 users.",
-      "Storage upto 100GB",
-      "24*7 support",
-      "Data backups"
+      "All Pro Plan features, plus:",
+      "Full access to all app features, including unlimited text color options",
+      "Advanced theme customization for complete personalization",
+      "Access to all premium sound packs and exclusive updates",
+      "VIP customer support with 24/7 availability",
+      "Early access to new features and beta programs",
+      "Go all-in with Lyric Drop’s Premium Plan to unlock your full creative potential! Enjoy every feature and tool designed for passionate creators like you."
     ]
   }
 ]

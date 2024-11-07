@@ -12,8 +12,7 @@ const FAQSection = () => {
           {t('frequently-asked')}
         </h2>
         <p className="text-center text-xl">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry.
+        We’re here to help you make the most of Lyric Drop! Below are answers to some common questions about our features, customization options, and getting started. Find out how Lyric Drop can enhance your music-making experience.
         </p>
         <div className="flex items-center justify-center">
           <div className="grid grid-cols-1 gap-2">

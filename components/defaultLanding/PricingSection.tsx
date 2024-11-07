@@ -13,8 +13,7 @@ const PricingSection = () => {
           {t('pricing')}
         </h2>
         <p className="text-center text-xl">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry.
+        Lyric Drop offers flexible pricing options designed to fit your creative needs. Whether you're a casual user or a dedicated artist, we have a plan that’s right for you. Start with a free trial, and explore the features that will help you record, customize, and share your music effortlessly.
         </p>
         <div className="flex items-center justify-center">
           <div className="grid grid-cols-1 gap-3 md:grid-cols-3">
